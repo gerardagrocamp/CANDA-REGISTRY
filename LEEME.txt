@@ -1,0 +1,9 @@
+CANDA REGISTRY - App independiente
+===================================
+Archivos:
+- index.html            La app
+- firebase-config.js    AQUI se pega la configuracion de Firebase (paso 3)
+- reglas-firestore.txt  Reglas de seguridad para pegar en Firebase (paso 2)
+- manifest.webmanifest, sw.js, icons/   Para instalarla como app en el movil
+
+No cambies el nombre de los archivos ni los saques de esta carpeta.
